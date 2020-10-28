@@ -1,0 +1,7 @@
+
+GET https://api.tronalddump.io/random/quote HTTP/1.1
+Accept: application/json
+
+###
+
+GET https://geek-jokes.sameerkumar.website/api?format=json HTTP/1.1
